@@ -1,4 +1,4 @@
-This project demonstrates:
+# This project demonstrates:
 1.	Calculating face and vertex normals.
 2.	Phong shading.
 3.	Reflection.
@@ -8,13 +8,27 @@ This project demonstrates:
 7.	Solid textures.
 8.	Projection shadows.
 
-Screenshots:
-1.	Background with solid textures.
-2.	Cow model with Phong Shading.
-3.	Cow model with Reflection of cube map.
-4.	Cow model with Refraction of cube map.
+## 1.	Background with solid textures.
 
-Files to view:
+
+![cow_no_texture](https://user-images.githubusercontent.com/7290739/38602958-534de68a-3d3a-11e8-88b8-b93093fb36c4.png)
+
+## 2.	Cow model with Phong Shading.
+
+
+![cow_phong](https://user-images.githubusercontent.com/7290739/38602994-6ff57316-3d3a-11e8-9f0f-371ea4663766.png)
+
+## 3.	Cow model with Reflection of cube map.
+
+
+![cow_reflection](https://user-images.githubusercontent.com/7290739/38603029-7b635218-3d3a-11e8-9c4d-8a37c8cb4010.png)
+
+## 4.	Cow model with Refraction of cube map.
+
+![cow_refraction](https://user-images.githubusercontent.com/7290739/38603056-8a92d8bc-3d3a-11e8-9ccc-69a46496746f.png)
+
+
+## Files to view:
 
 For core OpenGL functionality see following files
 
@@ -31,8 +45,8 @@ fshader2.glsl
 vshader2.glsl
 
 
-Instructions on how to run:
-
+# Instructions on how to run:
+<pre>
 Open a GLSLExperiment.sln in Visual Studio 18
 Please run multiple times if it crashes 
 (Angel's library makes shader compilers crash)
@@ -81,4 +95,4 @@ else
 R = reflect(pos, N);
 
 The lower refraction ratio draws cow well.
-
+</pre>
