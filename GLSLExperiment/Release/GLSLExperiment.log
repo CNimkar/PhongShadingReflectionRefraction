@@ -1,0 +1,22 @@
+﻿  modelDraw.cpp
+modelDraw.cpp(189): warning C4101: 'height': unreferenced local variable
+modelDraw.cpp(189): warning C4101: 'nrChannels': unreferenced local variable
+modelDraw.cpp(189): warning C4101: 'width': unreferenced local variable
+modelDraw.cpp(190): warning C4101: 'data': unreferenced local variable
+modelDraw.cpp(299): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+modelDraw.cpp(300): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+modelDraw.cpp(301): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+modelDraw.cpp(307): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+modelDraw.cpp(332): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+modelDraw.cpp(336): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+modelDraw.cpp(340): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+modelDraw.cpp(366): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+modelDraw.cpp(369): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+modelDraw.cpp(372): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+modelDraw.cpp(626): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  219 of 251 functions (87.3%) were compiled, the rest were copied from previous compilation.
+    10 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GLSLExperiment.vcxproj -> C:\Users\cnnimkar\Desktop\graphics_starting_code_2\Release\GLSLExperiment.exe
