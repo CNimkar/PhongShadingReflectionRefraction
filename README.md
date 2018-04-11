@@ -49,7 +49,7 @@ vshader2.glsl
 <pre>
 Open a GLSLExperiment.sln in Visual Studio 18
 Please run multiple times if it crashes 
-(Angel's library makes shader compilers crash)
+(Angel's library causes shader compilation crashes)
 
 Key 'a': Toggle shadows ON/OFF.
 Shadows are shown using projection.
