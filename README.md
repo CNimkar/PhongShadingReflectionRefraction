@@ -32,7 +32,7 @@
 
 For core OpenGL functionality see following files
 
-modelDraw.cpp
+modelDraw.cpp inside GLSLExperiment directory.
 
 for the model:
 
